@@ -1,0 +1,25 @@
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\bin\Debug\Juego Gato.exe.config
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\bin\Debug\Juego Gato.exe
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\bin\Debug\Juego Gato.pdb
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.csproj.AssemblyReference.cache
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\MainWindow.g.cs
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\App.g.cs
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato_MarkupCompile.cache
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato_MarkupCompile.lref
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\MainWindow.baml
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.g.resources
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego_Gato.Properties.Resources.resources
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.csproj.GenerateResource.cache
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.csproj.CoreCompileInputs.cache
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.exe
+C:\Users\Chaca\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.pdb
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.csproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\App.g.cs
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato_MarkupCompile.cache
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato_MarkupCompile.lref
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\MainWindow.baml
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.g.resources
+C:\Users\Ivan\Documents\OneDrive - Universidad La Salle Bajío\Semestre Dos\Programacion Orientada a Entornos Visuales\EntornosVisuales\Juego Gato\Juego Gato\obj\Debug\Juego Gato.pdb
