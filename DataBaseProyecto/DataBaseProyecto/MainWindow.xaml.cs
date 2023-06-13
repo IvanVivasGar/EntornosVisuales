@@ -29,6 +29,7 @@ namespace DataBaseProyecto
             InitializeComponent();
 
             string miconectBD = ConfigurationManager.ConnectionStrings["DataBaseProyecto.Properties.Settings.Simple_CRUDConnectionString"].ConnectionString;
+            MessageBox.Show("Se conecto con la base de datos");
             laConneccionDB = new SqlConnection(miconectBD);
             MostrarUsr();
         }
